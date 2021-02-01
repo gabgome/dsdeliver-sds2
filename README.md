@@ -4,4 +4,4 @@ O projeto é um sistema de envio e entrega de pedidos desenvolvido no evento Sem
 
 O sistema possui um catálogo de produtos onde é possível selecionar os produtos desejados, adicionar a localização de entrega, obter o valor total do pedido e o seu número de registro. 
 
-O deploy do back-end foi feito no Heroku e do front-end no Netlify, podendo ser acessado através deste link: [DSDeliver](https://gabgomesds2.netlify.app/)
+O deploy do back-end foi feito no Heroku e do front-end no Netlify, podendo ser acessado através do link: [DSDeliver](https://gabgomesds2.netlify.app/)
